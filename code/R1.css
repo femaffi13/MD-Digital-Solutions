@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(26, 47, 66);
+    color: #fff;
+    text-align: center;
+}
+
+.title{
+    margin-top: 5rem;
+    font-size: 1.5rem;
+    font-family: 'KoHo', sans-serif;
+}
+
+ul{
+    display: inline-block;
+    margin-top: 2rem;
+    list-style-type: disc;
+}
+
+li{
+    padding: 1rem 0;
+    font-size: 1.5rem;
+}
+
+a{
+    text-decoration: none;
+    color: #fff;
+}
+
+a:hover{
+    text-decoration: underline;
+    color: #375ca1;
+}
